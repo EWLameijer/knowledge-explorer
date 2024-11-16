@@ -1,0 +1,8 @@
+TODO
+
+? Idea: one day make store the node in Neo4j
+
+5. Add a D3 canvas to draw nodes on to frontend
+6. Add an ellipse or rectangle with rounded corners with the right size for the node text
+
+
